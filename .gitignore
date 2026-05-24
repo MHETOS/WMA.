@@ -1,0 +1,9 @@
+# Éditeur / OS
+.vscode/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Fichiers temporaires
+*.log
+*.tmp
