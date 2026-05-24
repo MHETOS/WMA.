@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" fill="none">
+  <defs>
+    <linearGradient id="bg3" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#134e4a"/>
+      <stop offset="100%" stop-color="#0d9488"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg3)"/>
+  <rect x="100" y="70" width="600" height="360" rx="18" fill="#0f172a" fill-opacity="0.6"/>
+  <text x="400" y="102" fill="#99f6e4" font-family="Arial,sans-serif" font-size="16" font-weight="bold" text-anchor="middle">SantePlus</text>
+  <rect x="130" y="150" width="200" height="250" rx="12" fill="#1e293b"/>
+  <path d="M230 195 v30 M215 210 h30" stroke="#2dd4bf" stroke-width="4" stroke-linecap="round"/>
+  <rect x="360" y="150" width="310" height="250" rx="12" fill="#1e293b"/>
+  <rect x="380" y="200" width="60" height="40" rx="8" fill="#0d9488"/>
+  <rect x="450" y="200" width="60" height="40" rx="8" fill="#134e4a" stroke="#2dd4bf"/>
+  <rect x="520" y="200" width="60" height="40" rx="8" fill="#134e4a"/>
+</svg>

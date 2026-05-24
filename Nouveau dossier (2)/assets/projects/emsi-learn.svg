@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" fill="none">
+  <defs>
+    <linearGradient id="bg1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0c4a6e"/>
+      <stop offset="100%" stop-color="#0369a1"/>
+    </linearGradient>
+    <linearGradient id="accent1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8"/>
+      <stop offset="100%" stop-color="#818cf8"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg1)"/>
+  <rect x="80" y="60" width="640" height="380" rx="16" fill="#0f172a" fill-opacity="0.55" stroke="rgba(255,255,255,0.12)"/>
+  <rect x="80" y="60" width="640" height="48" rx="16" fill="#1e293b"/>
+  <circle cx="108" cy="84" r="8" fill="#f87171"/>
+  <circle cx="132" cy="84" r="8" fill="#fbbf24"/>
+  <circle cx="156" cy="84" r="8" fill="#34d399"/>
+  <text x="400" y="92" fill="#94a3b8" font-family="Arial,sans-serif" font-size="14" text-anchor="middle">EMSI Learn - Dashboard</text>
+  <rect x="100" y="130" width="180" height="280" rx="10" fill="#1e293b" stroke="rgba(56,189,248,0.3)"/>
+  <rect x="120" y="155" width="140" height="12" rx="4" fill="url(#accent1)" opacity="0.9"/>
+  <rect x="120" y="180" width="100" height="8" rx="3" fill="#334155"/>
+  <rect x="120" y="200" width="120" height="8" rx="3" fill="#334155"/>
+  <rect x="300" y="130" width="400" height="130" rx="10" fill="#1e293b"/>
+  <rect x="320" y="155" width="120" height="80" rx="8" fill="#0ea5e9" opacity="0.25"/>
+  <rect x="460" y="155" width="120" height="80" rx="8" fill="#818cf8" opacity="0.25"/>
+  <rect x="300" y="280" width="400" height="130" rx="10" fill="#1e293b"/>
+  <path d="M320 360 L380 310 L440 340 L520 280 L600 360" stroke="#38bdf8" stroke-width="3" fill="none" stroke-linecap="round"/>
+</svg>
